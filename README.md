@@ -14,7 +14,11 @@ The outcome of the exercise is a pointed task list that can be executed on by an
 
 ## Step 1: Summarize the Problem Statement
 
+In this initial step, we discuss the high level problem and the surrounding context. If we don't know exactly what we want to build to solve the problem, we use this time to execute other exercises like "Crazy 8's" as a means of zeroing in on the problem and our solution
+
 ## Step 2: Define the User Story
+
+Here we want to summarize the solution we arrived at in the previous step as a formal User Story using the `"As a ___, I want to ___, so that I can ___"` format.
 
 ## Step 3: Define our Stakeholders
 

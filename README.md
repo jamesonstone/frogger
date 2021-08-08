@@ -91,8 +91,15 @@ required to reach the end state for our Audience and Stakeholders.
 
 ## Step 8: Summarize Aggregate Task List
 
-In this quick step, we walk through the entire task list and just do a cursory
-check for coherence, completeness, and wrap up any additional discussion.
+In this quick step, we walk through the entire task list. For each item we do a
+cursory check for coherence, completeness, wrap up any additional discussions,
+and we end this step by creating a user story using the BDD model
+
+> GIVEN a specific user scenario WHEN an initiation of some action or occurrence
+> THEN the system reacts in some fashion
+
+*Note: There can be multiple WHEN statements and for additional GIVEN, WHEN a
+use of "AND" is sufficient.
 
 ## Step 9: Group Point and Optional: Assignment
 

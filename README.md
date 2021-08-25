@@ -111,8 +111,9 @@ cursory check for coherence, completeness, wrap up any additional discussions,
 and we end this step by creating a user story using the [BDD Acceptance
 Criteria](https://en.wikipedia.org/wiki/Behavior-driven_development) model
 
-> GIVEN a specific user scenario WHEN an initiation of some action or occurrence
-> THEN the system reacts in some fashion
+> GIVEN a specific user scenario <br />
+> WHEN an initiation of some action or occurrence <br />
+> THEN the system reacts in some fashion <br />
 
 *Note: There can be multiple WHEN statements and for additional GIVEN, WHEN a
 use of "AND" is sufficient.

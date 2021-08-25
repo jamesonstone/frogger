@@ -26,7 +26,7 @@ use this time to execute other exercises like [Crazy
 8's](https://miro.com/templates/crazy-eights/) as a means of zeroing in on the
 problem and our solution
 
-## Step 2: Define the User Story
+## Step 2: Define the Epic User Story
 
 Here we want to summarize the solution we arrived at in the previous step as a
 formal User Story using the `"As a ___, I want to ___, so that I can ___"`
